@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
   printf("Desafio Super Trunfo - Países \n");
-   #include <iostream>
+#include <iostream>
 #include <vector>
 #include <string>
 
